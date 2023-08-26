@@ -7,14 +7,14 @@ https://stateus.itch.io/teslas-alternator
 
 ---CHANGELOG---
 
-Bugs Fixed:
+>Bugs Fixed:
 
--Sale Caption now will disapear if mouse is not over one of the options
+-Sale Caption now will disappear if mouse is not over one of the options
 
 -Pause menu now pauses
 
 
-Changes to Existing Features:
+)Changes to Existing Features:
 
 -Manager now spawns every 20th wave
 
@@ -34,21 +34,21 @@ Changes to Existing Features:
 
 -Mega Cannon Is enables for less time
 
--Security Protocol Cannon bullet range decresed
+-Security Protocol Cannon bullet range decreased
 
--Security Protocol Cannon fire rate decresed
+-Security Protocol Cannon fire rate decreased
 
 -Manager title now more transparent
 
 -Salesman title now more transparent
 
 
-Minor Additions:
+>Minor Additions:
 
 -Enemies now pathfind to not clump up
 
 
-Major Additions:
+>Major Additions:
 
 -You can now hold to shoot
 
