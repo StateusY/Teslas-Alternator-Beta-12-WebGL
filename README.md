@@ -14,7 +14,7 @@ https://stateus.itch.io/teslas-alternator
 -Pause menu now pauses
 
 
-)Changes to Existing Features:
+>Changes to Existing Features:
 
 -Manager now spawns every 20th wave
 
